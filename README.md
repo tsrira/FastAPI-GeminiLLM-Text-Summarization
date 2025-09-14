@@ -57,6 +57,10 @@ Example JSON payload:
 4. **Swagger/OpenAPI docs:**  
 Automatic docs at [http://localhost:8000/docs](http://localhost:8000/docs)
 
+Demo: 
+<img width="887" height="513" alt="image" src="https://github.com/user-attachments/assets/3cdee5fa-2470-4807-a0dc-534ab0d4fc74" />
+
+
 ---
 
 ## File Structure
